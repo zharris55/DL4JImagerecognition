@@ -1,0 +1,31 @@
+2018-02-01 13:19:54,180 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-01 13:22:06,921 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ai.skymind.training:training-labs:1.0-SNAPSHOT @ C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\pom.xml.
+2018-02-01 13:22:11,892 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:22:11,899 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-02-01 13:22:12,038 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:22:12,041 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources
+2018-02-01 13:22:14,862 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ai.skymind.training:training-labs:1.0-SNAPSHOT @ C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\pom.xml.
+2018-02-01 13:22:21,410 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:22:21,412 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-01 13:22:21,414 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:22:21,415 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources
+2018-02-01 13:33:51,607 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:33:51,607 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-01 13:33:51,609 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:33:51,610 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources
+2018-02-01 13:34:26,181 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:34:26,183 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-01 13:34:26,184 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:34:26,184 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources
+2018-02-01 13:38:00,508 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:38:00,509 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-01 13:38:00,511 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:38:00,512 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources
+2018-02-01 13:42:25,354 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:42:25,355 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-01 13:42:25,357 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:42:25,358 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources
+2018-02-01 13:54:39,088 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:54:39,089 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-01 13:54:39,093 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-01 13:54:39,094 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zharris\Documents\MOD\KerasWorkshop-0.10\training-labs\src\test\resources

@@ -1,0 +1,8 @@
+ai\skymind\training\solutions\ImportVGG16.class
+ai\skymind\training\demos\ImageDemo.class
+ai\skymind\training\labs\KerasModelImportExample.class
+ai\skymind\training\demos\IrisNoImport.class
+ai\skymind\training\demos\SimplestNetwork.class
+ai\skymind\training\demos\VGG16SparkJavaWebApp.class
+ai\skymind\training\solutions\KerasModelImportExample.class
+ai\skymind\training\solutions\KerasModelimportInceptionV3.class
